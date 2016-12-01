@@ -1,13 +1,12 @@
 ---
 title: This is a Knowledge Template Header
 authors:
-- sally_smarts
-- wesley_wisdom
+- Vijay Vammi
 tags:
 - knowledge
 - example
 created_at: 2016-06-29 00:00:00
-updated_at: 2016-12-01 11:56:31.065685
+updated_at: 2016-12-01 11:57:48.501830
 tldr: This is short description of the content and findings of the post.
 ---
 *NOTE: In the TL,DR, optimize for **clarity** and **comprehensiveness**. The goal is to convey the post with the least amount of friction, especially since ipython/beakers require much more scrolling than blog posts. Make the reader get a correct understanding of the post's takeaway, and the points supporting that takeaway without having to strain through paragraphs and tons of prose. Bullet points are great here, but are up to you. Try to avoid academic paper style abstracts.*
@@ -53,19 +52,10 @@ plt.ylabel('both of them', size=20)
 
 
 
-    <matplotlib.text.Text at 0x1119e1cd0>
+    <matplotlib.text.Text at 0x110c00ed0>
 
 
 
 
 
 ![png](images/output_5_1.png)
-
-
-*NOTE: in graphs, optimize for being able to **stand alone**. When aggregating and putting things in presentations, you won't have to recreate and add code to each plot to make it understandable without the entire post around it. Will it be understandable without several paragraphs?*
-
-### Putting Big Bold Headers with Clear Takeaways Will Help Us Aggregate Later
-
-### Appendix
-
-Put all the stuff here that is not necessary for supporting the points above. Good place for documentation without distraction.
