@@ -5,8 +5,9 @@ authors:
 tags:
 - knowledge
 - example
+- pandas
 created_at: 2016-06-29 00:00:00
-updated_at: 2016-12-01 11:57:48.501830
+updated_at: 2016-12-01 12:13:18.498470
 tldr: This is short description of the content and findings of the post.
 ---
 *NOTE: In the TL,DR, optimize for **clarity** and **comprehensiveness**. The goal is to convey the post with the least amount of friction, especially since ipython/beakers require much more scrolling than blog posts. Make the reader get a correct understanding of the post's takeaway, and the points supporting that takeaway without having to strain through paragraphs and tons of prose. Bullet points are great here, but are up to you. Try to avoid academic paper style abstracts.*
